@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Uber Demo\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Uber Demo\\ParseStarterProject\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Uber Demo\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Uber Demo\\ParseStarterProject\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Uber Demo\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_driver_location.xml.flat",
+        "source": "C:\\Uber Demo\\ParseStarterProject\\src\\main\\res\\layout\\activity_driver_location.xml"
+    },
+    {
+        "merged": "C:\\Uber Demo\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_uber_logo_final.png.flat",
+        "source": "C:\\Uber Demo\\ParseStarterProject\\src\\main\\res\\drawable\\uber_logo_final.png"
+    },
+    {
+        "merged": "C:\\Uber Demo\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_rider.png.flat",
+        "source": "C:\\Uber Demo\\ParseStarterProject\\src\\main\\res\\drawable\\rider.png"
+    },
+    {
+        "merged": "C:\\Uber Demo\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Uber Demo\\ParseStarterProject\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Uber Demo\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_rider.xml.flat",
+        "source": "C:\\Uber Demo\\ParseStarterProject\\src\\main\\res\\layout\\activity_rider.xml"
+    },
+    {
+        "merged": "C:\\Uber Demo\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_taxi_final.png.flat",
+        "source": "C:\\Uber Demo\\ParseStarterProject\\src\\main\\res\\drawable\\taxi_final.png"
+    },
+    {
+        "merged": "C:\\Uber Demo\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Uber Demo\\ParseStarterProject\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Uber Demo\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_request.xml.flat",
+        "source": "C:\\Uber Demo\\ParseStarterProject\\src\\main\\res\\layout\\activity_view_request.xml"
+    },
+    {
+        "merged": "C:\\Uber Demo\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_driver.png.flat",
+        "source": "C:\\Uber Demo\\ParseStarterProject\\src\\main\\res\\drawable\\driver.png"
+    },
+    {
+        "merged": "C:\\Uber Demo\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_uber_logo.png.flat",
+        "source": "C:\\Uber Demo\\ParseStarterProject\\src\\main\\res\\drawable\\uber_logo.png"
+    },
+    {
+        "merged": "C:\\Uber Demo\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Uber Demo\\ParseStarterProject\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Uber Demo\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Uber Demo\\ParseStarterProject\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]
