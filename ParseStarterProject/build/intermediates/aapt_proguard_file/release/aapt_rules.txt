@@ -1,0 +1,156 @@
+# Referenced at C:\Uber Demo\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:82
+-keep class com.google.android.gms.ads.AdActivity { <init>(); }
+# Referenced at C:\Uber Demo\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:98
+-keep class com.google.android.gms.analytics.AnalyticsJobService { <init>(); }
+# Referenced at C:\Uber Demo\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:88
+-keep class com.google.android.gms.analytics.AnalyticsReceiver { <init>(); }
+# Referenced at C:\Uber Demo\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:94
+-keep class com.google.android.gms.analytics.AnalyticsService { <init>(); }
+# Referenced at C:\Uber Demo\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:104
+-keep class com.google.android.gms.appinvite.PreviewActivity { <init>(); }
+# Referenced at C:\Uber Demo\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:123
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(); }
+# Referenced at C:\Uber Demo\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:114
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }
+# Referenced at C:\Uber Demo\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:77
+-keep class com.google.android.gms.cast.framework.ReconnectionService { <init>(); }
+# Referenced at C:\Uber Demo\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:74
+-keep class com.google.android.gms.cast.framework.media.MediaIntentReceiver { <init>(); }
+# Referenced at C:\Uber Demo\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:76
+-keep class com.google.android.gms.cast.framework.media.MediaNotificationService { <init>(); }
+# Referenced at C:\Uber Demo\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:135
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at C:\Uber Demo\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:174
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(); }
+# Referenced at C:\Uber Demo\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:188
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+# Referenced at C:\Uber Demo\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:169
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at C:\Uber Demo\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:184
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at C:\Uber Demo\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:155
+-keep class com.google.android.gms.tagmanager.TagManagerPreviewActivity { <init>(); }
+# Referenced at C:\Uber Demo\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:150
+-keep class com.google.android.gms.tagmanager.TagManagerService { <init>(); }
+# Referenced at C:\Uber Demo\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:128
+-keep class com.google.firebase.auth.internal.FederatedSignInActivity { <init>(); }
+# Referenced at C:\Uber Demo\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:194
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+# Referenced at C:\Uber Demo\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:208
+-keep class com.google.firebase.iid.FirebaseInstanceIdService { <init>(); }
+# Referenced at C:\Uber Demo\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:143
+-keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(); }
+# Referenced at C:\Uber Demo\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:216
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at C:\Uber Demo\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:70
+-keep class com.yaronfuks.uberclone.DriverLocationActivity { <init>(); }
+# Referenced at C:\Uber Demo\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:44
+-keep class com.yaronfuks.uberclone.MainActivity { <init>(); }
+# Referenced at C:\Uber Demo\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:66
+-keep class com.yaronfuks.uberclone.RiderActivity { <init>(); }
+# Referenced at C:\Uber Demo\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:38
+-keep class com.yaronfuks.uberclone.StarterApplication { <init>(); }
+# Referenced at C:\Uber Demo\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:69
+-keep class com.yaronfuks.uberclone.ViewRequestActivity { <init>(); }
+# Referenced at C:\Uber Demo\ParseStarterProject\src\main\res\layout\activity_main.xml:9
+-keep class android.support.constraint.ConstraintLayout { <init>(...); }
+
+# Referenced at C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\2e7a0da1111f5faa4cda6ea80fd2bd90\appcompat-v7-27.1.1\res\layout\abc_alert_dialog_material.xml:41
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# Referenced at C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\2e7a0da1111f5faa4cda6ea80fd2bd90\appcompat-v7-27.1.1\res\layout\abc_select_dialog_material.xml:23
+-keep class android.support.v7.app.AlertController$RecycleListView { <init>(...); }
+
+# Referenced at C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\fbb143d2bc3219e7901ac18225dbe74d\mediarouter-v7-26.1.0\res\layout\mr_volume_control.xml:43
+-keep class android.support.v7.app.MediaRouteExpandCollapseButton { <init>(...); }
+
+# Referenced at C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\fbb143d2bc3219e7901ac18225dbe74d\mediarouter-v7-26.1.0\res\layout\mr_controller_volume_item.xml:43
+# Referenced at C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\fbb143d2bc3219e7901ac18225dbe74d\mediarouter-v7-26.1.0\res\layout\mr_volume_control.xml:34
+-keep class android.support.v7.app.MediaRouteVolumeSlider { <init>(...); }
+
+# Referenced at C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\fbb143d2bc3219e7901ac18225dbe74d\mediarouter-v7-26.1.0\res\layout\mr_controller_material_dialog_b.xml:87
+-keep class android.support.v7.app.OverlayListView { <init>(...); }
+
+# Referenced at C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\2e7a0da1111f5faa4cda6ea80fd2bd90\appcompat-v7-27.1.1\res\layout\abc_action_menu_item_layout.xml:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\2e7a0da1111f5faa4cda6ea80fd2bd90\appcompat-v7-27.1.1\res\layout\abc_expanded_menu_layout.xml:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\2e7a0da1111f5faa4cda6ea80fd2bd90\appcompat-v7-27.1.1\res\layout\abc_list_menu_item_layout.xml:17
+# Referenced at C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\2e7a0da1111f5faa4cda6ea80fd2bd90\appcompat-v7-27.1.1\res\layout\abc_popup_menu_item_layout.xml:17
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\2e7a0da1111f5faa4cda6ea80fd2bd90\appcompat-v7-27.1.1\res\layout\abc_screen_toolbar.xml:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\2e7a0da1111f5faa4cda6ea80fd2bd90\appcompat-v7-27.1.1\res\layout\abc_action_mode_bar.xml:19
+# Referenced at C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\2e7a0da1111f5faa4cda6ea80fd2bd90\appcompat-v7-27.1.1\res\layout\abc_screen_toolbar.xml:43
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\2e7a0da1111f5faa4cda6ea80fd2bd90\appcompat-v7-27.1.1\res\layout\abc_screen_toolbar.xml:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\2e7a0da1111f5faa4cda6ea80fd2bd90\appcompat-v7-27.1.1\res\layout\abc_action_menu_layout.xml:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# Referenced at C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\2e7a0da1111f5faa4cda6ea80fd2bd90\appcompat-v7-27.1.1\res\layout\abc_activity_chooser_view.xml:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\2e7a0da1111f5faa4cda6ea80fd2bd90\appcompat-v7-27.1.1\res\layout\abc_alert_dialog_material.xml:18
+-keep class android.support.v7.widget.AlertDialogLayout { <init>(...); }
+
+# Referenced at C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\2e7a0da1111f5faa4cda6ea80fd2bd90\appcompat-v7-27.1.1\res\layout\abc_alert_dialog_button_bar_material.xml:26
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\2e7a0da1111f5faa4cda6ea80fd2bd90\appcompat-v7-27.1.1\res\layout\abc_screen_content_include.xml:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\2e7a0da1111f5faa4cda6ea80fd2bd90\appcompat-v7-27.1.1\res\layout\abc_alert_dialog_title_material.xml:45
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# Referenced at C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\2e7a0da1111f5faa4cda6ea80fd2bd90\appcompat-v7-27.1.1\res\layout\abc_screen_simple_overlay_action_mode.xml:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\2e7a0da1111f5faa4cda6ea80fd2bd90\appcompat-v7-27.1.1\res\layout\abc_dialog_title_material.xml:22
+# Referenced at C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\2e7a0da1111f5faa4cda6ea80fd2bd90\appcompat-v7-27.1.1\res\layout\abc_screen_simple.xml:17
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\2e7a0da1111f5faa4cda6ea80fd2bd90\appcompat-v7-27.1.1\res\layout\abc_search_view.xml:75
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\2e7a0da1111f5faa4cda6ea80fd2bd90\appcompat-v7-27.1.1\res\layout\abc_screen_toolbar.xml:36
+# Referenced at C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\bef70b8e0d77a5227eed7c3563cd560f\play-services-cast-framework-12.0.1\res\layout\cast_expanded_controller_activity.xml:28
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# Referenced at C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\2e7a0da1111f5faa4cda6ea80fd2bd90\appcompat-v7-27.1.1\res\layout\abc_screen_simple.xml:25
+# Referenced at C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\2e7a0da1111f5faa4cda6ea80fd2bd90\appcompat-v7-27.1.1\res\layout\abc_screen_simple_overlay_action_mode.xml:32
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\2e7a0da1111f5faa4cda6ea80fd2bd90\appcompat-v7-27.1.1\res\layout\abc_alert_dialog_button_bar_material.xml:43
+# Referenced at C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\2e7a0da1111f5faa4cda6ea80fd2bd90\appcompat-v7-27.1.1\res\layout\abc_alert_dialog_material.xml:52
+# Referenced at C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\2e7a0da1111f5faa4cda6ea80fd2bd90\appcompat-v7-27.1.1\res\layout\abc_alert_dialog_title_material.xml:56
+-keep class android.widget.Space { <init>(...); }
+
+# Referenced at C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\bef70b8e0d77a5227eed7c3563cd560f\play-services-cast-framework-12.0.1\res\layout\cast_help_text.xml:2
+-keep class com.google.android.gms.cast.framework.internal.featurehighlight.HelpTextView { <init>(...); }
+
+# Referenced at C:\Uber Demo\ParseStarterProject\src\main\res\layout\activity_driver_location.xml:13
+# Referenced at C:\Uber Demo\ParseStarterProject\src\main\res\layout\activity_rider.xml:11
+-keep class com.google.android.gms.maps.SupportMapFragment { <init>(...); }
+
+# Referenced at C:\Uber Demo\ParseStarterProject\src\main\res\layout\activity_driver_location.xml:22
+-keepclassmembers class * { *** acceptRequest(android.view.View); }
+
+# Referenced at C:\Uber Demo\ParseStarterProject\src\main\res\layout\activity_rider.xml:20
+-keepclassmembers class * { *** callUber(android.view.View); }
+
+# Referenced at C:\Uber Demo\ParseStarterProject\src\main\res\layout\activity_main.xml:73
+-keepclassmembers class * { *** driverChosen(android.view.View); }
+
+# Referenced at C:\Uber Demo\ParseStarterProject\src\main\res\layout\activity_rider.xml:34
+-keepclassmembers class * { *** logout(android.view.View); }
+
+# Referenced at C:\Uber Demo\ParseStarterProject\src\main\res\layout\activity_main.xml:61
+-keepclassmembers class * { *** riderChosen(android.view.View); }
+

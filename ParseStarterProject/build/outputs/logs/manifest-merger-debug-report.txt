@@ -403,13 +403,13 @@ MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Us
 	android:theme
 		ADDED from C:\Uber Demo\ParseStarterProject\src\main\AndroidManifest.xml:22:9-40
 	android:name
-		ADDED from C:\Uber Demo\ParseStarterProject\src\main\AndroidManifest.xml:18:9-43
-activity#com.parse.starter.MainActivity
+		ADDED from C:\Uber Demo\ParseStarterProject\src\main\AndroidManifest.xml:18:9-66
+activity#com.yaronfuks.uberclone.MainActivity
 ADDED from C:\Uber Demo\ParseStarterProject\src\main\AndroidManifest.xml:23:9-31:20
 	android:label
 		ADDED from C:\Uber Demo\ParseStarterProject\src\main\AndroidManifest.xml:25:13-33
 	android:name
-		ADDED from C:\Uber Demo\ParseStarterProject\src\main\AndroidManifest.xml:24:13-41
+		ADDED from C:\Uber Demo\ParseStarterProject\src\main\AndroidManifest.xml:24:13-64
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from C:\Uber Demo\ParseStarterProject\src\main\AndroidManifest.xml:26:13-30:29
 action#android.intent.action.MAIN
@@ -426,22 +426,22 @@ ADDED from C:\Uber Demo\ParseStarterProject\src\main\AndroidManifest.xml:41:9-43
 		ADDED from C:\Uber Demo\ParseStarterProject\src\main\AndroidManifest.xml:43:13-52
 	android:name
 		ADDED from C:\Uber Demo\ParseStarterProject\src\main\AndroidManifest.xml:42:13-58
-activity#com.parse.starter.RiderActivity
+activity#com.yaronfuks.uberclone.RiderActivity
 ADDED from C:\Uber Demo\ParseStarterProject\src\main\AndroidManifest.xml:45:9-47:60
 	android:label
 		ADDED from C:\Uber Demo\ParseStarterProject\src\main\AndroidManifest.xml:47:13-57
 	android:name
-		ADDED from C:\Uber Demo\ParseStarterProject\src\main\AndroidManifest.xml:46:13-42
-activity#com.parse.starter.ViewRequestActivity
-ADDED from C:\Uber Demo\ParseStarterProject\src\main\AndroidManifest.xml:48:9-57
+		ADDED from C:\Uber Demo\ParseStarterProject\src\main\AndroidManifest.xml:46:13-65
+activity#com.yaronfuks.uberclone.ViewRequestActivity
+ADDED from C:\Uber Demo\ParseStarterProject\src\main\AndroidManifest.xml:48:9-80
 	android:name
-		ADDED from C:\Uber Demo\ParseStarterProject\src\main\AndroidManifest.xml:48:19-54
-activity#com.parse.starter.DriverLocationActivity
+		ADDED from C:\Uber Demo\ParseStarterProject\src\main\AndroidManifest.xml:48:19-77
+activity#com.yaronfuks.uberclone.DriverLocationActivity
 ADDED from C:\Uber Demo\ParseStarterProject\src\main\AndroidManifest.xml:49:9-51:79
 	android:label
 		ADDED from C:\Uber Demo\ParseStarterProject\src\main\AndroidManifest.xml:51:13-67
 	android:name
-		ADDED from C:\Uber Demo\ParseStarterProject\src\main\AndroidManifest.xml:50:13-51
+		ADDED from C:\Uber Demo\ParseStarterProject\src\main\AndroidManifest.xml:50:13-74
 uses-sdk
 INJECTED from C:\Uber Demo\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Uber Demo\ParseStarterProject\src\main\AndroidManifest.xml
@@ -872,7 +872,7 @@ ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users
 		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\0819b8e5de6e60687d14fb54e107f602\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:33:13-87
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.${applicationId}
 ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\0819b8e5de6e60687d14fb54e107f602\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:36:13-43:29
-intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.com.parse.starter
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.com.yaronfuks.uberclone
 ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\0819b8e5de6e60687d14fb54e107f602\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:36:13-43:29
 data
 ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\0819b8e5de6e60687d14fb54e107f602\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:37:17-72
@@ -938,7 +938,7 @@ ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\yaron\.gradle\cach
 		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\f678fd576239df4efb2709bc347a4c01\firebase-iid-12.0.1\AndroidManifest.xml:30:9-44
 	android:name
 		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\f678fd576239df4efb2709bc347a4c01\firebase-iid-12.0.1\AndroidManifest.xml:29:9-63
-permission#com.parse.starter.permission.C2D_MESSAGE
+permission#com.yaronfuks.uberclone.permission.C2D_MESSAGE
 ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\f678fd576239df4efb2709bc347a4c01\firebase-iid-12.0.1\AndroidManifest.xml:28:5-30:47
 	android:protectionLevel
 		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\f678fd576239df4efb2709bc347a4c01\firebase-iid-12.0.1\AndroidManifest.xml:30:9-44
@@ -948,7 +948,7 @@ uses-permission#${applicationId}.permission.C2D_MESSAGE
 ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\f678fd576239df4efb2709bc347a4c01\firebase-iid-12.0.1\AndroidManifest.xml:32:5-79
 	android:name
 		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\f678fd576239df4efb2709bc347a4c01\firebase-iid-12.0.1\AndroidManifest.xml:32:22-76
-uses-permission#com.parse.starter.permission.C2D_MESSAGE
+uses-permission#com.yaronfuks.uberclone.permission.C2D_MESSAGE
 ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\f678fd576239df4efb2709bc347a4c01\firebase-iid-12.0.1\AndroidManifest.xml:32:5-79
 	android:name
 		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\f678fd576239df4efb2709bc347a4c01\firebase-iid-12.0.1\AndroidManifest.xml:32:22-76
@@ -962,7 +962,7 @@ ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\yaron\.gradle\cach
 		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\f678fd576239df4efb2709bc347a4c01\firebase-iid-12.0.1\AndroidManifest.xml:36:13-78
 intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
 ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\f678fd576239df4efb2709bc347a4c01\firebase-iid-12.0.1\AndroidManifest.xml:39:13-43:29
-intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.parse.starter
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.yaronfuks.uberclone
 ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\f678fd576239df4efb2709bc347a4c01\firebase-iid-12.0.1\AndroidManifest.xml:39:13-43:29
 action#com.google.android.c2dm.intent.RECEIVE
 ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\f678fd576239df4efb2709bc347a4c01\firebase-iid-12.0.1\AndroidManifest.xml:40:17-81
@@ -972,7 +972,7 @@ category#${applicationId}
 ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\f678fd576239df4efb2709bc347a4c01\firebase-iid-12.0.1\AndroidManifest.xml:42:17-61
 	android:name
 		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\f678fd576239df4efb2709bc347a4c01\firebase-iid-12.0.1\AndroidManifest.xml:42:27-58
-category#com.parse.starter
+category#com.yaronfuks.uberclone
 ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\f678fd576239df4efb2709bc347a4c01\firebase-iid-12.0.1\AndroidManifest.xml:42:17-61
 	android:name
 		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\yaron\.gradle\caches\transforms-2\files-2.1\f678fd576239df4efb2709bc347a4c01\firebase-iid-12.0.1\AndroidManifest.xml:42:27-58

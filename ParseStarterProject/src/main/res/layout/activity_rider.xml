@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
 
-    tools:context=".RiderActivity">
+    tools:context="com.yaronfuks.uberclone.RiderActivity">
 
 
 <fragment xmlns:android="http://schemas.android.com/apk/res/android"
@@ -15,7 +15,7 @@
     android:name="com.google.android.gms.maps.SupportMapFragment"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.parse.starter.RiderActivity" />
+    tools:context="com.parse.starter.com.yaronfuks.starter.RiderActivity" />
 
     <Button
         android:text="Call An Uber"

@@ -1,0 +1,2 @@
+# Referenced at C:\Uber Demo\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:38
+-keep class com.yaronfuks.uberclone.StarterApplication { <init>(); }
